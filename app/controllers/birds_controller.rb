@@ -24,7 +24,5 @@ class BirdsController < ApplicationController
 
   end
 
-  def private
-  end
 
 end
